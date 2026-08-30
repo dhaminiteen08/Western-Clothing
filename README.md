@@ -1,3 +1,3 @@
 Western CLothing/Personal E-commerce website
 
-Added new items
+Optimized the clothing section
