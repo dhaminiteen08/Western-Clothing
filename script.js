@@ -7,8 +7,8 @@ const products = [
     id: 1,
     name: "Classic White Tee",
     category: "tshirt",
-    price: 2499,
-    image: "images/products/tshirt1.webp",
+    price: 999,
+    image: "tshirt1.png",
     description: "Premium heavyweight cotton oversized t-shirt.",
     badge: "NEW"
   },
@@ -16,8 +16,8 @@ const products = [
     id: 2,
     name: "Black Hoodie",
     category: "hoodie",
-    price: 3999,
-    image: "images/products/hoodie.webp",
+    price: 1599,
+    image: "hoodie.png",
     description: "Soft fleece hoodie with relaxed fit.",
     badge: "BEST"
   },
@@ -25,8 +25,8 @@ const products = [
     id: 3,
     name: "Slim Fit Jeans",
     category: "pants",
-    price: 3599,
-    image: "images/products/jeans.webp",
+    price: 1799,
+    image: "pant.png",
     description: "Stretch denim for everyday comfort.",
     badge: "SALE"
   },
@@ -34,8 +34,8 @@ const products = [
     id: 4,
     name: "Denim Jacket",
     category: "jacket",
-    price: 4999,
-    image: "images/products/jacket.webp",
+    price: 2999,
+    image: "Denimjacket.png",
     description: "Classic blue denim jacket.",
     badge: "NEW"
   }
